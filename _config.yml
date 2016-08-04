@@ -1,0 +1,14 @@
+layout_spectrum: 0.82076008268632
+typography_spectrum: 0.34947983850724995
+color:
+  brandStrength: 0.20678899134509265
+  lightness: 0.46774178999476135
+  saturation: 0.18662234069779515
+  rhythmicContrast: 0.7969547717366368
+  brandColors:
+    - '#E1E6FA'
+    - '#C4D7ED'
+    - '#ABC8E2'
+    - '#375D81'
+    - '#183152'
+name: robotCake.net
