@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Your computer is a part of your mind.]]></title>
+        <description><![CDATA[Your computer is a part of your mind.]]></description>
+        <link>http://robotcake.net/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 04 Aug 2016 02:22:49 GMT</lastBuildDate>
+        <atom:link href="http://robotcake.net/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Advice]]></title>
+            <description><![CDATA[<article><h1>Advice</h1><h2>Consulting by a more human name.</h2><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1d7b2de8-3a42-4cf8-a50c-f74d8a38f371.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/1d7b2de8-3a42-4cf8-a50c-f74d8a38f371.jpg</link>
+            <guid isPermaLink="false">0e57d440-6121-4666-a814-1c63731698a5</guid>
+            <pubDate>Thu, 04 Aug 2016 02:22:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Repairs]]></title>
+            <description><![CDATA[<article><h1>Repairs</h1><h2>Need something fixed?</h2><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d8fa51ee-1402-4cfe-8bc5-4974fa6b5edd.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/d8fa51ee-1402-4cfe-8bc5-4974fa6b5edd.jpg</link>
+            <guid isPermaLink="false">dc6a337d-bdc2-4079-b9e5-7bc525a112d5</guid>
+            <pubDate>Thu, 04 Aug 2016 02:22:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Upgrades]]></title>
+            <description><![CDATA[<article><h1>Upgrades</h1><h2>Faster. Better. Stronger.</h2><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bdf0f3ba-9dfc-4243-93e0-18e966f75408.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/bdf0f3ba-9dfc-4243-93e0-18e966f75408.jpg</link>
+            <guid isPermaLink="false">1c70aceb-fde4-4a8a-bb0d-cd20cf6f8085</guid>
+            <pubDate>Thu, 04 Aug 2016 02:22:46 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
