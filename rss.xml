@@ -4,8 +4,15 @@
         <description><![CDATA[Your computer is a part of your mind.]]></description>
         <link>http://robotcake.net/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 Aug 2016 02:28:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2016 02:28:41 GMT</lastBuildDate>
         <atom:link href="http://robotcake.net/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Upgrades]]></title>
+            <description><![CDATA[<article><h1>Upgrades</h1><h2>Faster. Better. Stronger.</h2><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent nec turpis a nisi semper ultricies. Vivamus tincidunt ligula eu mauris vulputate, vitae sagittis ante tincidunt. Fusce ut suscipit tortor, ac bibendum sapien. Sed fermentum pellentesque erat, fermentum pretium leo. Cras ultrices vestibulum quam, at sagittis urna tincidunt sed. Donec venenatis lacus at elit semper, id suscipit felis dapibus. Vivamus a tristique leo. Aliquam erat volutpat. Curabitur eu ipsum quam. Phasellus sit amet efficitur quam, vitae dignissim augue.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bdf0f3ba-9dfc-4243-93e0-18e966f75408.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/bdf0f3ba-9dfc-4243-93e0-18e966f75408.jpg</link>
+            <guid isPermaLink="false">1c70aceb-fde4-4a8a-bb0d-cd20cf6f8085</guid>
+            <pubDate>Thu, 04 Aug 2016 02:28:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Repairs]]></title>
             <description><![CDATA[<article><h1>Repairs</h1><h2>Need something fixed?</h2><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent nec turpis a nisi semper ultricies. Vivamus tincidunt ligula eu mauris vulputate, vitae sagittis ante tincidunt. Fusce ut suscipit tortor, ac bibendum sapien. Sed fermentum pellentesque erat, fermentum pretium leo. Cras ultrices vestibulum quam, at sagittis urna tincidunt sed. Donec venenatis lacus at elit semper, id suscipit felis dapibus. Vivamus a tristique leo. Aliquam erat volutpat. Curabitur eu ipsum quam. Phasellus sit amet efficitur quam, vitae dignissim augue.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d8fa51ee-1402-4cfe-8bc5-4974fa6b5edd.jpg"></article>]]></description>
@@ -18,13 +25,6 @@
             <description><![CDATA[<article><h1>Advice</h1><h2>Consulting by a more human name.</h2><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1d7b2de8-3a42-4cf8-a50c-f74d8a38f371.jpg"></article>]]></description>
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/1d7b2de8-3a42-4cf8-a50c-f74d8a38f371.jpg</link>
             <guid isPermaLink="false">0e57d440-6121-4666-a814-1c63731698a5</guid>
-            <pubDate>Thu, 04 Aug 2016 02:22:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Upgrades]]></title>
-            <description><![CDATA[<article><h1>Upgrades</h1><h2>Faster. Better. Stronger.</h2><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bdf0f3ba-9dfc-4243-93e0-18e966f75408.jpg"></article>]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/bdf0f3ba-9dfc-4243-93e0-18e966f75408.jpg</link>
-            <guid isPermaLink="false">1c70aceb-fde4-4a8a-bb0d-cd20cf6f8085</guid>
             <pubDate>Thu, 04 Aug 2016 02:22:46 GMT</pubDate>
         </item>
     </channel>
